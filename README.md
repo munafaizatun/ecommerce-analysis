@@ -1,6 +1,6 @@
 # E-Commerce Analytics: Customer Segmentation & High-Value Prediction
 
-This project analyzes ~398k online retail transactions to uncover customer behavior, identify top-selling products, and reveal cross-selling opportunities. Customers were segmented into VIPs, mid-tier, and at-risk groups, while high-value buyers were predicted using a Random Forest model.
+This project analyzes online retail transactions to uncover customer behavior, identify top-selling products, and reveal cross-selling opportunities. Customers were segmented into VIPs, mid-tier, and at-risk groups, while high-value buyers were predicted using a Random Forest model.
 
 Key insights include:
 - Top products and UK market drive the most revenue.
