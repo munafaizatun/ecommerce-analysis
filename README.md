@@ -1,4 +1,4 @@
-# E-Commerce Analytics: Customer Segmentation & High-Value Prediction
+# E-Commerce Analytics: Insights for Growth & Retention
 
 This project analyzes online retail transactions to uncover customer behavior, identify top-selling products, and reveal cross-selling opportunities. Customers were segmented into VIPs, mid-tier, and at-risk groups, while high-value buyers were predicted using a Random Forest model.
 
